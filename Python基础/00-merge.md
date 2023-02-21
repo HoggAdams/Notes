@@ -1,8 +1,6 @@
 # 第一章 Python概述
 
 
-[TOC]
-
 
 ## 一、初识Python
 
