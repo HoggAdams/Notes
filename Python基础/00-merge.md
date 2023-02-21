@@ -1,7 +1,7 @@
 # 第一章 Python概述
 
 
-[toc]
+[TOC]
 
 
 ## 一、初识Python
